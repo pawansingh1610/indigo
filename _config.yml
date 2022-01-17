@@ -1,6 +1,6 @@
 # main text of home
-name: John Doe
-bio: A Person who travels the world eating noodles
+name: Pawan Singh
+bio: A Person who is trying do better than yesterday.
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -19,8 +19,8 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://sergiokopplin.github.io/indigo
-# your url: https://USERNAME.github.io
+url: https://pawansingh1610.github.io/indigo
+# your url: https://github.com/pawansingh1610
 
 permalink: /:title/
 
@@ -33,12 +33,12 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
+facebook: https://www.facebook.com/profile.php?id=100024710595120
 twitter: mytwitter
-instagram: myinstagram
-linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+instagram: https://www.instagram.com/pawan__sngh/
+linkedin: https://www.linkedin.com/in/pawansingh1610/
+github: https://github.com/pawansingh1610
+email: pawan_s@ce.iitr.ac.in
 
 authors:
   johndoe:
