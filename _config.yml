@@ -7,8 +7,8 @@ description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
-picture: assets/images/Profile.jpg
+external-image: true
+picture: assets/images/profile (3).jpg
 
 # your site color theme, false to light theme
 dark-theme: false
