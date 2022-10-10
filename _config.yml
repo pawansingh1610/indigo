@@ -1,6 +1,6 @@
 # main text of home
 name: Pawan Singh
-bio: A Person who is trying do better than yesterday.
+bio: A Person who is trying to be better than yesterday.
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -8,7 +8,7 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/Profile.jpg
 
 # your site color theme, false to light theme
 dark-theme: false
@@ -17,9 +17,9 @@ dark-theme: false
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://drive.google.com/file/d/1JCGVonGF9vIhe0QpXByj2VdwwMElVKAO/view?usp=sharing
 
-url: https://pawansingh1610.github.io/indigo
+url: https://pawansingh1610.github.io/
 # your url: https://github.com/pawansingh1610
 
 permalink: /:title/
